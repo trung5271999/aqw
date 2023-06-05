@@ -1,0 +1,42 @@
+{
+    "elimination-round": {
+        "name": ["round 1"],
+        "team": [
+            {
+                "couple": [
+                {
+                    "team_id": 1,
+                    "score": 0,
+                    "status": true
+                },
+                {
+                    "team_id": 2,
+                    "score": 0,
+                    "status": true
+                }
+            ], 
+             "start_at": "11-11-2023"
+            },
+            {
+                "couple": [
+                {
+                    "team_id": 3,
+                    "score": 0,
+                    "status": true
+                },
+                {
+                    "team_id": 4,
+                    "score": 0,
+                    "status": true
+                }
+            ], 
+             "start_at": "11-11-2023"
+            }
+        ]
+    },
+    "quater-round":{
+        "team":[
+            
+        ]
+    }
+}
